@@ -1,3 +1,9 @@
+"""
+Code by Tom Joe James
+I used AI to Refine the code and fix UI 
+Date: 16-03-2025 Time: 23:25PM IST
+"""
+
 import sys
 import pandas as pd
 from PyQt5.QtWidgets import (
