@@ -1,6 +1,7 @@
 # Exam Center Allocation Tool
 
 This repository contains a Python-based Exam Center Allocation Tool that helps allocate students to their nearest exam centers based on their pincodes. The tool is built using PyQt5 for the graphical user interface (GUI) and pandas for data manipulation.
+![image](https://github.com/user-attachments/assets/f7633b33-7e43-4aa6-81d9-71f5dc80b539)
 
 ## Files
 
@@ -90,7 +91,6 @@ Sdnbvc,600044
 ## License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
-## Author
 Made with ❤️ by Tom Joe James.
 
 ---
